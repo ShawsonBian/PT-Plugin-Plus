@@ -28,7 +28,7 @@
       "interval": "4",
       "downloaded": "150GiB",
       "seedingPoints": "40000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "得到一个邀请名额；可以直接发布种子；可以查看NFO文档；可以查看用户列表；可以请求续种； 可以发送邀请； 可以查看排行榜；可以查看其它用户的种子历史(如果用户隐私等级未设置为\"强\")； 可以删除自己上传的字幕。"
     },
     {
@@ -37,7 +37,7 @@
       "interval": "8",
       "downloaded": "400GiB",
       "seedingPoints": "80000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "成蛙及以上用户封存账号后不会被删除。"
     },
     {
@@ -46,7 +46,7 @@
       "interval": "15",
       "downloaded": "1024GiB",
       "seedingPoints": "160000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "得到两个邀请名额; 可以在做种/下载/发布的时候选择匿名模式。"
     },
     {
@@ -55,7 +55,7 @@
       "interval": "25",
       "downloaded": "2048GiB",
       "seedingPoints": "320000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "可以查看普通日志。"
     },
     {
@@ -64,7 +64,7 @@
       "interval": "40",
       "downloaded": "4096GiB",
       "seedingPoints": "640000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "得到三个邀请名额；可以查看其它用户的评论、帖子历史；妙蛙花及以上用户会永远保留账号。"
     },
     {
@@ -73,7 +73,7 @@
       "interval": "60",
       "downloaded": "8192GiB",
       "seedingPoints": "1280000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "可以更新过期的外部信息。"
     },
     {
@@ -82,7 +82,7 @@
       "interval": "80",
       "downloaded": "16384GiB",
       "seedingPoints": "2560000",
-      "ratio": "1.0-1.5",
+      "ratio": "1.0-2.0",
       "privilege": "得到五个邀请名额。"
     }
   ],
